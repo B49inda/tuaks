@@ -15,9 +15,6 @@
               <li class="nav-item">
                 <a class="nav-link" {{ ($title === "register") ? 'active' : '' }} href="/register">Registrasion</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-              </li>
             </ul>
           </div>
         </div>
